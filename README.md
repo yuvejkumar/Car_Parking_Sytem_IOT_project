@@ -1,1 +1,2 @@
-Smart Car Parking System using iot components i.e ir sensor and ESP32S3 board
+Smart Car Parking System using iot components i.e ir sensor and ESP32S3 board 
+(built using CHATGPT)
